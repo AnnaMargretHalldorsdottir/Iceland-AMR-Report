@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Antimicrobial Consumption and Resistance in Iceland",
+    "section": "",
+    "text": "Introduction\nWelcome to the interactive annual report on antimicrobial consumption (AMC) and antimicrobial resistance (AMR) in Iceland.\nThis report presents surveillance data on antibiotic consumption and antimicrobial resistance in humans, highlighting trends over time and providing insights into the development of antimicrobial resistance in Iceland.\nThe interactive figures and tables allow users to explore the data and monitor changes over time.\nThe report is developed by the Directorate of Health, Iceland, with the aim of supporting evidence-based decision-making, promoting responsible antibiotic use, and strengthening efforts to combat antimicrobial resistance.\nThis website is currently under development.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "amc.html",
+    "href": "amc.html",
+    "title": "2  AMC",
+    "section": "",
+    "text": "3 Antimicrobial consumption in Iceland\nThis chapter presents antibiotic consumption in humans, expressed as DDD per 1,000 inhabitants per day (DID).\nNote: The data below are illustrative.\n\n\n\n\n\n\n\n\nFigure 3.1",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>AMC</span>"
+    ]
+  },
+  {
+    "objectID": "amr.html",
+    "href": "amr.html",
+    "title": "3  AMR",
+    "section": "",
+    "text": "4 Antimicrobial resistance in Iceland\nThis chapter presents resistance in selected bacterial species isolated from humans.\nNote: All data are illustrative.\n\n\n\n\n\n\n\n\nFigure 4.1",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>AMR</span>"
+    ]
+  }
+]
